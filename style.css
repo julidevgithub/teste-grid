@@ -1,0 +1,23 @@
+.cores {
+    background-image: linear-gradient(45deg, white, blue, yellow);
+    background-image: linear-gradient(to left, rgb(0, 255, 21), yellow);
+    background-image: radial-gradient(circle, rgb(255, 0, 212), yellow);
+    background-image: radial-gradient(circle, rgb(255, 0, 212), yellow 100%);
+  }
+
+.semgride{
+    border: 3px solid black;
+    margin-bottom: 10px;
+    background-color: aquamarine;
+}
+
+.grid-12, .grid-1, .grid-2, .grid-3{
+    border: 3px solid black;
+    margin-bottom: 10px;
+}
+
+.grid-4, .grid-5, .grid-6, .grid-7, .grid-8, .grid-9, .grid-10, .grid-11{
+    border: 3px solid black;
+    margin-bottom: 10px;
+}
+
